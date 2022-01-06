@@ -1,2 +1,2 @@
 # Odin-Rock-Paper-Scissors
-In consol rock paper scissors game, Javascript
+In console rock paper scissors game, Javascript
