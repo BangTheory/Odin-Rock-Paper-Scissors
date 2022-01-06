@@ -41,4 +41,3 @@ while (roundNumber <= 5){
         roundNumber++
     }
 }
-console.log(`Player: ${userScore}, Computer ${cpuScore}, Round: ${roundNumber}\n`);
