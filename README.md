@@ -1,2 +1,3 @@
 # Odin-Rock-Paper-Scissors
-In console rock paper scissors game, Javascript
+No longer only in console game;
+added user interface with javascript and DOM manipulation
